@@ -3,7 +3,7 @@ I am  pphreak_1001 .I am  Developer,Security Researcher and Bug bounty Hunter.
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Indian Cyber Troops"
+Name = "Shlok K"
 What_I_Do = ['Developer','Security Researcher','Ethical Hacker','Indian','Students','Bug Hunter']
 Religion = "Hackers"
 ```

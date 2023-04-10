@@ -1,5 +1,5 @@
 ## Namaste 🙏🏻
-I am  pphreak_1001 .I am  Developer,Security Researcher and Bug bounty Hunter.
+I am  pphreak_1001 .I am  a Developer,Security Researcher and Bug bounty Hunter.
 
 ### About 🙋🏻‍♂️
 ```python
@@ -15,10 +15,10 @@ Religion = "Hackers"
 <p>
  
   <a href="https://hackerone.com/pphreak1001">
-    <img align="left" alt="Hackerone" width="24px" src="https://www.hackerone.com/themes/hacker_one/images/logo-hackerone.svg" />
+    <img align="left" alt="Hackerone" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerone.svg" />
   </a>
-  <a href="https://instagram.com/i_phantom1001">
-    <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  <a href="https://twitter.com/Huh0x01">
+    <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
    <a href="https://bugcrowd.com/pphreak_1001">
   <img align="left" alt="Bugcrowd" width="24px" src="https://docs.bugcrowd.com/assets/images/bugcrowd-logo.svg" />

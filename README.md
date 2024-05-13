@@ -1,11 +1,10 @@
-## Namaste 🙏🏻
-I am  pphreak_1001 .I am  a Developer,Security Researcher and Bug bounty Hunter.
+## Hello 🙏🏻
+I am  Shlok K .I am Cyber Security Enthusiast.
 
 ### About 🙋🏻‍♂️
 ```python
 Name = "Shlok K"
-What_I_Do = ['Developer','Security Researcher','Ethical Hacker','Indian','Students','Bug Hunter']
-Religion = "Hackers"
+What_I_Do = ['Developer','Security Researcher','Indian','Students']
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40pphreak_1001~%23+whoami;%E2%9C%93+Bug+Bounty+Hunter;%E2%9C%93+Web+Pentester;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)

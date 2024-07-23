@@ -1,10 +1,10 @@
 ## Hello 🙏🏻
-I am  Shlok K .I am Cyber Security Enthusiast.
+I am  Shlok K . I am a Cyber Security Enthusiast.
 
 ### About 🙋🏻‍♂️
 ```python
 Name = "Shlok K"
-What_I_Do = ['Developer','Security Researcher','Indian','Students']
+What_I_Do = ['Developer',' Security Researcher', 'Indian',' Student']
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40pphreak_1001~%23+whoami;%E2%9C%93+Bug+Bounty+Hunter;%E2%9C%93+Web+Pentester;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)

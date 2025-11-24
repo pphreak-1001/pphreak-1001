@@ -1,5 +1,5 @@
-## Hello 🙏🏻
-I am  Shlok K . I am a Cyber Security Enthusiast.
+## Hello 
+
 
 ### About 🙋🏻‍♂️
 ```python
